@@ -17,4 +17,4 @@ This term project focuses on the detailed analysis and evaluation of composite l
 - **Safety Assessment**: Use the Hoffmann criteria to evaluate the safety of the laminate and calculate the margin of safety to ensure the laminate's performance meets safety requirements under specified loads.
 
 ## View the Notebook
-You can view the Jupyter Notebook online using nbviewer: [View Notebook](https://nbviewer.org/github/LastElectron/Analysis-of-Multi-Ply-Laminates-Using-Classical-Lamination-Theory/blob/main/Analysis-of-Multi-Ply-Laminates-Using-Classical-Lamination-Theory.ipynb)
+You can view the Jupyter Notebook online using nbviewer: [View Notebook](https://nbviewer.org/github/LastElectron/Analysis-of-Multi-Ply-Laminates-Using-Classical-Lamination-Theory/blob/main/Laminate-Analysis-CLT.ipynb)
